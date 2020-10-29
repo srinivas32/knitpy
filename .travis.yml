@@ -1,4 +1,7 @@
 # http://travis-ci.org/#!/ipython/ipython
+arch:
+    - amd64
+    - ppc64le
 language: python
 
 python:
